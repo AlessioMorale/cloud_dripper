@@ -13,6 +13,7 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
+cloud_dripper-backups/
 
 # Netlist files (exported from Eeschema)
 *.net
@@ -21,6 +22,4 @@ fp-info-cache
 *.dsn
 *.ses
 
-# Exported BOM files
-*.xml
-*.csv
+
